@@ -1,4 +1,4 @@
-# SmartBank: Scalable Web-Based Financial Management System
+# SwiftBank: Scalable Web-Based Financial Management System
 
 A full-stack Java-based banking simulation platform that mimics core functionalities of an online banking system. This project demonstrates the use of Java EE technologies, session handling, modular architecture, and secure database interaction following MVC principles.
 
