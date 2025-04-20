@@ -26,5 +26,33 @@ A full-stack Java-based banking simulation platform that mimics core functionali
 
 ---
 
-## 📂 Project Structure
+## 2. Setup Database
+1. Open MySQL and create a database:
 
+2. Import the schema:
+
+3. Update DB credentials in your DAO or utility classes if needed.
+
+## 3.Import Project into Eclipse
+1. Open Eclipse
+
+2. Go to File > Import > Existing Projects into Workspace
+
+3. Select the cloned folder
+
+## 4. Configure Tomcat Server
+1. Add Apache Tomcat 9 in Eclipse
+
+2. Right-click project > Run on Server
+
+## 5. Access the App
+Navigate to: http://localhost:8080/SwiftBank/
+
+## Future Enhancements
+OAuth2-based login
+
+PDF export for statements
+
+Email notifications on transactions
+
+Mobile-responsive UI
